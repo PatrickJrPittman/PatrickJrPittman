@@ -6,7 +6,6 @@
   - [osTicket: Prerequisites and Installation](https://github.com/PatrickJrPittman/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/PatrickJrPittman/post-install-config)
    - [osTicket: Ticket Lifecycle Examples](https://github.com/PatrickJrPittman/ticket-lifecycle)
-  - [Installing Active Directory in Azure](https://github.com/PatrickJrPittman/configure-ad)
-  - [Configuring Active Directory in Azure](https://github.com/PatrickJrPittman/azure-network-protocols)
+ 
 
 <h2>🤳Connect with me:</h2>
